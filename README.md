@@ -1,2 +1,2 @@
 # Project_gakko
-An AI that helps notes basically as an apication
+An AI that helps with notes basically as an apication
